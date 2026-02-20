@@ -1,2 +1,2 @@
-# python
-learning and exploring python from scratch.
+# 
+learning and exploring web development from scratch.
